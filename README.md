@@ -4,7 +4,7 @@
 
 ## Vizuální identita
 
-Tmavé neutrální barvy, bílá typografie, monochromatický obrazový materiál a orámovaná tlačítka navazují na screenshoty webu jezdeckyklubliberec.cz. Aplikace používá plný název Jezdecký klub Liberec a obsahuje odkaz na hlavní web. `public/images/club-mark.svg` je dočasná vektorová rekonstrukce motivu koně v kruhu podle screenshotu, nikoli originální logo klubu. Pro přesnou shodu nahraďte soubor oficiálním SVG se stejným názvem. Obrazový materiál zůstává generovanou ilustrací; fotografie z webu nebyly dostupné. Barvy událostí v kalendáři jsou zachované pro rozlišení vlastní rezervace, cizí rezervace a uzavírky.
+Tmavé neutrální barvy, bílá typografie, monochromatický obrazový materiál a orámovaná tlačítka navazují na screenshoty webu jezdeckyklubliberec.cz. Aplikace používá plný název Jezdecký klub Liberec a obsahuje odkaz na hlavní web. `public/images/club-mark.png` je průhledná varianta loga upravená z dodané obrazové předlohy: bílá silueta skákajícího koně a široký přerušený kruh. Stejný soubor používá navigace, dekorativní prvky i ikona prohlížeče. Původní ručně kreslená SVG náhrada byla odstraněna. Obrazový materiál zůstává generovanou ilustrací; fotografie z webu nebyly dostupné. Barvy událostí v kalendáři jsou zachované pro rozlišení vlastní rezervace, cizí rezervace a uzavírky.
 
 ## Lokální spuštění
 
