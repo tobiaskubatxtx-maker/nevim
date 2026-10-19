@@ -2,6 +2,10 @@
 
 Český responzivní prototyp. React 19, TypeScript, Tailwind CSS 4, Vite.
 
+## Vizuální identita
+
+Tmavé neutrální barvy, bílá typografie, monochromatický obrazový materiál a orámovaná tlačítka navazují na screenshoty webu jezdeckyklubliberec.cz. Aplikace používá plný název Jezdecký klub Liberec a obsahuje odkaz na hlavní web. `public/images/club-mark.svg` je dočasná vektorová rekonstrukce motivu koně v kruhu podle screenshotu, nikoli originální logo klubu. Pro přesnou shodu nahraďte soubor oficiálním SVG se stejným názvem. Obrazový materiál zůstává generovanou ilustrací; fotografie z webu nebyly dostupné. Barvy událostí v kalendáři jsou zachované pro rozlišení vlastní rezervace, cizí rezervace a uzavírky.
+
 ## Lokální spuštění
 
 Node.js 24, npm 11 (ověřeno):
